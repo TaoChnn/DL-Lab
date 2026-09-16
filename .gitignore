@@ -1,0 +1,15 @@
+# Model weights
+*.pth
+
+# Datasets
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ZCode local files
+.zcode/
